@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "location": "San Francisco",
+      "intent": "buy",
+      "price": 950000,
+      "property_type": "house",
+      "bedrooms": 3,
+      "bathrooms": 2
+    },
+    {
+      "id": 2,
+      "location": "Miami",
+      "intent": "buy",
+      "price": 850000,
+      "property_type": "apartment",
+      "bedrooms": 2,
+      "bathrooms": 2
+    },
+    {
+      "id": 3,
+      "location": "New York",
+      "intent": "rent",
+      "price": 4000,
+      "property_type": "house",
+      "bedrooms": 3,
+      "bathrooms": 2
+    },
+    {
+      "id": 4,
+      "location": "Los Angeles",
+      "intent": "buy",
+      "price": 780000,
+      "property_type": "house",
+      "bedrooms": 3,
+      "bathrooms": 2
+    }
+  ]
+  

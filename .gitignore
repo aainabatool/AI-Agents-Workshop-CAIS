@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+env/
+
+# DotEnv configuration
+.env
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Exclude virtual environment
+.venv/
+
+# Exclude temporary files
+temp/
+
+# calender events
+./credentials.json
+
+./calender-agent/streamlit/.streamlit
+
+./calender-agent/streamlit/credentials.json
